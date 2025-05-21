@@ -38,6 +38,7 @@ I love transforming messy data into actionable insights. My strength lies in bri
 
 **Goal:**  
 Predict which patients are more likely to survive a fictional pandemic using classification models.
+
 🔗 [View Notebook on GitHub](https://github.com/LilitTonoyann/Data-Analyst-Portfolio/blob/main/PandemicSurvival.ipynb)
 
 **Process:**
@@ -82,7 +83,8 @@ Python (Pandas, Numpy, Scikit-learn)
 
 **Goal:**  
 Analyze workshop bookings, lead times, deliveries, backlogs, and cancellations per week and per retail country.
-🔗 [View Notebook on GitHub](https://github.com/LilitTonoyann/Data-Analyst-Portfolio/blob/main/Booking%26DeliveryAnalytics.sql)
+
+🔗 [View SQL File on GitHub](https://github.com/LilitTonoyann/Data-Analyst-Portfolio/blob/main/Booking%26DeliveryAnalytics.sql)
 
 **Process:**
 - Built CTE-based weekly summary for multiple KPIs
