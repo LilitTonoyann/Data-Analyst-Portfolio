@@ -82,6 +82,7 @@ Python (Pandas, Numpy, Scikit-learn)
 
 **Goal:**  
 Analyze workshop bookings, lead times, deliveries, backlogs, and cancellations per week and per retail country.
+🔗 [View Notebook on GitHub](https://github.com/LilitTonoyann/Data-Analyst-Portfolio/blob/main/Booking%26DeliveryAnalytics.sql)
 
 **Process:**
 - Built CTE-based weekly summary for multiple KPIs
@@ -89,6 +90,24 @@ Analyze workshop bookings, lead times, deliveries, backlogs, and cancellations p
 
 **Skills:**  
 Advanced SQL, exploratory queries, CTEs, time-series KPI reporting.
+
+**Tech:**  
+PostgreSQL
+
+### 4. Vehicle Service Center KPI Reporting
+
+**Goal:**  
+Generate weekly and monthly KPIs for vehicle service centers by analyzing service volume, cost, and duration. Services are categorized and clustered for operational insight.
+
+🔗 [View SQL File on GitHub](https://github.com/LilitTonoyann/Data-Analyst-Portfolio/blob/main/vehicle_service_kpi_analysis.sql)
+
+**Process:**
+- Used CTEs to classify services into anonymized categories (e.g., `category_a`, `category_b`)
+- Clustered repairs by time and budget
+- Aggregated metrics per center and region across weekly and monthly time frames
+
+**Skills:**  
+CTE chaining, SQL clustering, time-series reporting, modular query design
 
 **Tech:**  
 PostgreSQL
