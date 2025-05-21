@@ -1,4 +1,4 @@
-# 👩‍💻 Lilit Tonoyan – Data Analyst & Aspiring Data Scientist
+#  Lilit Tonoyan – Data Analyst & Aspiring Data Scientist
 
 I'm **Lilit Tonoyan**, a detail-oriented Data Analyst with a strong academic foundation in Applied Mathematics and a Master’s in Data Science and Advanced Analytics from Nova IMS. I have experience across e-commerce, logistics, and marketing analytics, with a deep interest in solving complex problems through data. This GitHub portfolio highlights projects I can publicly share to demonstrate my skills and approach to data analysis.
 
@@ -96,7 +96,7 @@ PostgreSQL
 
 ### Coming Soon: Looker Studio Project
 
-- Interactive dashboard using marketing or web analytics data.
+- Interactive dashboard using marketing data.
 - Real-time filtering, campaign metrics, and performance monitoring.
 
 ---
