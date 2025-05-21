@@ -38,6 +38,7 @@ I love transforming messy data into actionable insights. My strength lies in bri
 
 **Goal:**  
 Predict which patients are more likely to survive a fictional pandemic using classification models.
+🔗 [View Notebook on GitHub](https://github.com/LilitTonoyann/Data-Analyst-Portfolio/blob/main/PandemicSurvival.ipynb)
 
 **Process:**
 - Performed EDA and preprocessing (duplicates, outliers, missing values).
