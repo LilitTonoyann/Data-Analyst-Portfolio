@@ -58,6 +58,8 @@ Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 **Goal:**  
 Segment customers and simulate campaign targeting using behavioral and demographic data.
 
+🔗 [View Notebook on GitHub](https://github.com/LilitTonoyann/Data-Analyst-Portfolio/blob/main/Customerr%20Segmentation%20Example.ipynb)
+
 **Process:**
 - Cleaned and encoded data, standardized features.
 - Used KMeans clustering for segmentation.
