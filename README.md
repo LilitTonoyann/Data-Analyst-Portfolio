@@ -18,6 +18,7 @@ I enjoy both working independently and collaborating with teams, and I'm always 
   - [Customer Segmentation & Campaign Targeting](#2-customer-segmentation--campaign-targeting)
 - [SQL Projects](#-sql-projects)
   - [Workshop Booking and Delivery Analytics](#3-workshop-booking-and-delivery-analytics)
+  - [Vehicle Service Center KPI Reporting](#4-vehicle-service-center-kpi-reporting)
 - [Dashboard & Visualization](#-dashboard--visualization)
   - [Coming Soon: Looker Studio Project](#coming-soon-looker-studio-project)
 - [Education](#-education)
